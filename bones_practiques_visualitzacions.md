@@ -297,3 +297,26 @@ Figura 12. Exemple d’utilització del color
 - Limitar el vermell i el verd per mostrar desviacions. S’ha d’avaluar si és necessari incorporar-los com a colors de visualització, ja que estan fortament identificats amb una semàntica pròpia de negativitat i positivitat.
 
 
+## 8. Accessibilitat i disseny inclusiu
+
+Les visualitzacions han de ser comprensibles i utilitzables pel màxim nombre de persones possible, independentment de les seves capacitats visuals, cognitives o del context d’ús. El disseny inclusiu no és un afegit opcional, sinó una bona pràctica bàsica.
+
+* **Colors accessibles**:
+  Evita combinacions amb poc contrast o problemàtiques per a persones amb daltonisme (per exemple, vermell–verd). Prioritza paletes amb bon contrast i comprova-les amb simuladors de visió reduïda.
+
+* **No dependre només del color**:
+  El color no ha de ser l’únic element per transmetre informació. Combina’l amb etiquetes, patrons, formes o línies diferenciades perquè el missatge sigui entenedor encara sense percepció cromàtica.
+
+* **Text llegible**:
+  Utilitza mides de lletra suficients i tipografies clares. Evita textos massa petits, excessivament fins o amb poc contrast respecte al fons.
+
+* **Etiquetes i context clars**:
+  Assegura’t que eixos, llegendes i anotacions expliquin correctament què s’està mostrant. Una visualització ha de ser interpretable sense necessitat d’explicacions externes.
+
+* **Simplicitat cognitiva**:
+  Redueix la càrrega mental evitant excés d’informació, decoració innecessària o gràfics massa complexos. Una visualització accessible també és una visualització clara.
+
+* **Formats alternatius**:
+  Quan sigui possible, acompanya els gràfics amb una breu descripció textual que resumeixi les idees principals, especialment en entorns digitals o documents compartits.
+
+Pensar en accessibilitat des del principi millora la qualitat global de la visualització i garanteix que el missatge arribi a una audiència més àmplia i diversa.
